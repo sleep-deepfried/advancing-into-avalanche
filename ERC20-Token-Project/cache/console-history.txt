@@ -1,0 +1,36 @@
+await coin.mint(accounts[0],2)
+(await coin.balanceOf(accounts[0])).toString()
+await coin.decimals()
+await coin.name()
+let accounts = await ethers.provider.listAccounts();
+const coin = await Coin.attach('0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D');
+const Coin = await ethers.getContractFactory('NewTestToken');
+const Coin = await ethers.getContractFactory('Eljon');
+let accounts = await ethers.provider.listAccounts();
+const coin = await Coin.attach('0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC');
+const Coin = await ethers.getContractFactory('NewTestToken');
+await coin.mint(accounts[0],2)
+(await coin.balanceOf(accounts[0])).toString()
+await coin.decimals()
+await coin.name()
+let accounts = await ethers.provider.listAccounts();
+const coin = await Coin.attach('0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC');
+const Coin = await ethers.getContractFactory('NewTestToken');
+const coin = await Coin.attach('0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC');
+const coin = await Coin.attach('0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E2');
+const Coin = await ethers.getContractFactory('NewTestToken');
+.clear
+const coin = await Coin.attach('0x17aBlet accounts = await ethers.provider.listAccounts();
+const Coin = await ethers.getContractFactory('NewTestToken');
+.editor
+.edo
+.clear
+.load
+.help
+await coin.decimals()
+await coin.name()
+let accounts = await ethers.provider.listAccounts();
+const coin = await Coin.attach(0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E2);
+const coin = await Coin.attach("0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E2");
+const coin = await Coin.attach('0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E2');
+const Coin = await ethers.getContractFactory('NewTestToken');
